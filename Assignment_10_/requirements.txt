@@ -1,0 +1,3 @@
+openai>=1.68.0
+sounddevice>=0.5.1
+numpy>=2.0.0
